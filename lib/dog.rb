@@ -9,7 +9,7 @@ class Dog
   end
   
   def breed
-    @Pug
+    @Mutt
   end
 end
 
