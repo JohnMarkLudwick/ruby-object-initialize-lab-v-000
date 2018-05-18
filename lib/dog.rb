@@ -5,11 +5,11 @@ class Dog
   end
   
   def breed=(breed)
-    @pug = breed
+    @breed = breed
   end
   
   def breed
-    @Mutt
+    @Pug
   end
 end
 
