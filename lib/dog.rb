@@ -3,15 +3,3 @@ class Dog
     @name = name
   end
   
-  def breed
-    @breed = breed
-  end
-
-end
-
-fido = Dog.new
-fido.breed
-fido.breed = "Mutt"
-fido.breed
-
-
